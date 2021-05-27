@@ -3,7 +3,7 @@
 	url = https://github.com/pulp-platform/pulp-tools.git
 [submodule "pulp-configs"]
 	path = pulp-configs
-	url = https://github.com/pulp-platform/pulp-configs.git
+	url = https://github.com/cevero/pulp-configs.git
 [submodule "json-tools"]
 	path = json-tools
 	url = https://github.com/pulp-platform/json-tools.git
